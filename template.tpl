@@ -21,7 +21,8 @@ ___INFO___
   "description": "Шаблон для подключения AB экспериментов Yandex Metrica.",
   "containerContexts": [
     "WEB"
-  ]
+  ],
+  "categories": ["EXPERIMENTATION"]
 }
 
 
