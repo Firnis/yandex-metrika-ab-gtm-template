@@ -13,12 +13,12 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Yandex.Metrika AB Experiments",
+  "displayName": "Yandex.Metrica AB Experiments",
   "brand": {
     "id": "brand_dummy",
     "displayName": ""
   },
-  "description": "Шаблон для подключения AB экспериментов Yandex Metrika.",
+  "description": "Шаблон для подключения AB экспериментов Yandex Metrica.",
   "containerContexts": [
     "WEB"
   ]
