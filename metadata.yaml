@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://metrica.yandex.com"
+homepage: "https://metrica.yandex.com/ab/list"
 documentation: "https://github.com/Firnis/yandex-metrika-ab-gtm-template"
 versions:
   - sha: 67a956d609281b77db4ef61d00dcd8f4d8dd24b1
