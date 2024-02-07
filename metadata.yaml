@@ -15,6 +15,8 @@
 homepage: "https://metrica.yandex.com/ab/list"
 documentation: "https://github.com/Firnis/yandex-metrika-ab-gtm-template"
 versions:
+  - sha: 753a1b21a12a0743fbc66e50346c8b14f473d677
+    changeNodes: Fixed exp.js url
   - sha: e0d0921e5cf4cc51d83c6ca5918adb5e7f245612
     changeNodes: Fixed initialization
   - sha: 5e6e032b7420e5515604144c8f77e9c557b03a87
