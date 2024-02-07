@@ -92,7 +92,7 @@ const injectScript = require('injectScript');
 const createArgumentsQueue = require('createArgumentsQueue');
 const callInWindow = require('callInWindow');
 const ymab = createArgumentsQueue('ymab','ymab.a');
-const jsexp = 'https://abt.s3.mds.yandex.net/expjs/latest/exp.js';
+const jsexp = 'https://abt.s3.yandex.net/expjs/latest/exp.js';
 
 injectScript(jsexp, () => {
   callInWindow('ymab', {
