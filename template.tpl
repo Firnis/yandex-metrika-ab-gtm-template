@@ -226,7 +226,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://abt.s3.mds.yandex.net/expjs/latest/exp.js"
+                "string": "https://abt.s3.yandex.net/expjs/latest/exp.js"
               }
             ]
           }
